@@ -1,5 +1,4 @@
-<ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
+- Item 1
+- Item 2
+- Item 3
+- Item 4
